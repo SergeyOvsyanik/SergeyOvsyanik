@@ -3,7 +3,7 @@
 <br>
 
 <a href="https://github.com/SergeyOvsyanik">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=sergeyovsyanik&hide_border=true&show_icons=true&line_height=28&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=58a6ff&bg_color=161b22" alt="Sergey's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=sergeyovsyanik&show_icons=true&line_height=28&count_private=true&bg_color=0F111A&title_color=FF00AA&text_color=87D3F8&icon_color=F2F27A&&hide_border=true&border_color=14B37D&border_radius=16" alt="Sergey's GitHub Stats" />
 </a>
 
 <!--

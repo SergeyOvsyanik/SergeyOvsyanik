@@ -1,5 +1,5 @@
 <a href="https://github.com/SergeyOvsyanik">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=sergeyovsyanik&show_icons=true&line_height=28&count_private=true&hide_border=true&border_radius=16&theme=outrun" alt="Sergey's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=sergeyovsyanik&show_icons=true&line_height=28&count_private=true&hide_border=true&border_radius=16&theme=aura" alt="Sergey's GitHub Stats" />
 </a>
 
 <!--
